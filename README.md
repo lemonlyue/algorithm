@@ -4,7 +4,7 @@
 ## LeetCode
 | 序号 | 题目 | 博客 | 代码 | 难度 | 时间 |
 | --- | ---- | ---- | ---- | --- | --- |
-| 1349 | https://leetcode-cn.com/problems/destination-city/ | [博客 (LeetCode-1349)][1349_blog] | [代码 (LeetCode-1349)][1349] | <span style="color:green">简单</span> | 2020/07/06 |
+| 1349 | https://leetcode-cn.com/problems/destination-city/ | [博客 (LeetCode-1349)][1349_blog] | [代码 (LeetCode-1349)][1349] | <span style="color:green;">简单</span> | 2020/07/06 |
 
 ## 极客时间
 
