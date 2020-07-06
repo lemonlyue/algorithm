@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @desc LeetCode - 1349 旅行终点站
+ * @author lemon_lyue
+ * @date 2020/07/06
+ */
 class Solution {
 
     /**
