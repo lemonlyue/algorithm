@@ -5,7 +5,7 @@
 | 序号 | 题目 | 博客 | 代码 | 难度 | 时间 |
 | --- | ---- | ---- | ---- | --- | --- |
 | 1436 | https://leetcode-cn.com/problems/destination-city/ | [博客 (LeetCode-1436)][1436_blog] | [代码 (LeetCode-1436)][1436] | <span style="color:green;">简单</span> | 2020/07/06 |
-| 1389 | https://leetcode-cn.com/problems/create-target-array-in-the-given-order/ | [博客 (LeetCode-1389)][1389_blog] | [代码 (LeetCode-1389)][1389] | <span style="color:green;">简单</span> | 2020/07/06 |
+| 1389 | https://leetcode-cn.com/problems/create-target-array-in-the-given-order/ | [博客 (LeetCode-1389)][1389_blog] | [代码 (LeetCode-1389)][1389] | <span style="color:green;">简单</span> | 2020/07/07 |
 
 ## 极客时间
 
