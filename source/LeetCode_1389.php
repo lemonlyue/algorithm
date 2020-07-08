@@ -38,39 +38,24 @@ class Solution {
      * @return Integer[]
      */
     function createTargetArray2($nums, $index) {
-
         $target = [];
-
         $_tmp_indexs = [];
 
         foreach ($index as $i => $k) {
-
             if (in_array($k, $_tmp_indexs)) {
-
                 foreach ($_tmp_indexs as &$_tmp_index) {
-
                     if ($_tmp_index >= $k) {
-
                         $_tmp_index ++;
-
                     }
-
                 }
-
             }
-
             $_tmp_indexs[] = $k;
-
         }
 
         foreach ($_tmp_indexs as $i => $k) {
-
             $target[$k] = $nums[$i];
-
         }
-
         ksort($target);
-
         return $target;
 
     }
