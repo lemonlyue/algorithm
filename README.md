@@ -24,7 +24,7 @@
 [面试题 16.11.跳水板]: https://github.com/lemonlyue/algorithm/blob/master/source/LeetCode_16.11.php
 [1480]: https://github.com/lemonlyue/algorithm/blob/master/source/LeetCode_1480.php
 [1470]: https://github.com/lemonlyue/algorithm/blob/master/source/LeetCode_1470.php
-[面试题 02.03.删除中间节点]: https://github.com/lemonlyue/algorithm/blob/master/source/LeetCode_02.03.php
+[面试题 02.03.删除中间节点]: https://github.com/lemonlyue/algorithm/blob/master/source/LeetCode_02.03.go
 [LCP 06. 拿硬币]: https://github.com/lemonlyue/algorithm/blob/master/source/LeetCode_LCP.06.php
 [112]: https://github.com/lemonlyue/algorithm/blob/master/source/LeetCode_112.php
 [113]: https://github.com/lemonlyue/algorithm/blob/master/source/LeetCode_113.php
