@@ -4,6 +4,7 @@ class Solution {
 
     /**
      * 双指针（暴力破解）
+     * 时间复杂度O(n^2)
      * @param Integer[] $nums
      * @return Integer
      */
@@ -24,6 +25,7 @@ class Solution {
 
     /**
      * 哈希表
+     * 时间复杂度O(n)
      * @param Integer[] $nums
      * @return Integer
      */
