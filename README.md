@@ -4,6 +4,7 @@
 ## LeetCode
 | 序号 | 题目 | 博客 | 代码 | 难度 | 时间 |
 | --- | ---- | ---- | ---- | --- | --- |
+| 剑指Offer 24.反转链表 | https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/ | | [代码（LeetCode-剑指Offer 24.反转链表）][剑指Offer 24.反转链表] | <span style="color:green;">简单</span> | 2020/07/29 |
 | 1512 | https://leetcode-cn.com/problems/number-of-good-pairs/ | | [代码（LeetCode-1512）][1512] | <span style="color:green;">简单</span> | 2020/07/13 |
 | 113 | https://leetcode-cn.com/problems/path-sum-ii/ | | [代码（LeetCode-113）][113] | <span style="color:#ffa119;">中等</span> | 2020/07/10 |
 | 112 | https://leetcode-cn.com/problems/path-sum/ | | [代码（LeetCode-112）][112] | <span style="color:green;">简单</span> | 2020/07/10 |
@@ -30,6 +31,7 @@
 [112]: https://github.com/lemonlyue/algorithm/blob/master/source/LeetCode_112.php
 [113]: https://github.com/lemonlyue/algorithm/blob/master/source/LeetCode_113.php
 [1512]: https://github.com/lemonlyue/algorithm/blob/master/source/LeetCode_1512.php
+[剑指Offer 24.反转链表]: https://github.com/lemonlyue/algorithm/blob/master/source/LeetCode_offer_24.php
 
 [//]: 博客
 [1436_blog]: https://lemonlyue.github.io/2020/07/06/LeetCode%20-%201349%20-%20%E6%97%85%E8%A1%8C%E7%BB%88%E7%82%B9%E7%AB%99/#more
